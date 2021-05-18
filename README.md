@@ -31,4 +31,4 @@ K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on 
 ## Decision Tree:
 The goal of using a Decision Tree is to create a training model that can use to predict the class or value of the target variable by learning simple decision rules inferred from prior data(training data).
 # Conclusion
-AMongst the implemented algorithms the Naive Nayes and Logistic regression have the most accuracy. While the KNN has the least accuracy.
+Amongst the implemented algorithms the Naive Nayes and Logistic regression have the most accuracy. While the KNN has the least accuracy.
