@@ -14,3 +14,8 @@ Jupyter Notebook
 2.Pandas  
 3. Matplotlib   
 4. Seaborn   
+## Prcedure:
+1. Identify the problem and data sources.  
+2. Data Pre-processing.  
+3. Data Modelling.  
+4. Model Evaluation.  
